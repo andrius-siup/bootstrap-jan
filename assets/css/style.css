@@ -168,6 +168,11 @@ background: url("/assets/images/whiskey-background.jpg") no-repeat bottom right 
     border-color: #df4929;
 }
 
+.feature {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
 /* .table-hover {
     background-color: blue;
     color: aqua;
